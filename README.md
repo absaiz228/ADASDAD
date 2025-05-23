@@ -4,6 +4,9 @@
 - [Первый участник](https://github.com/AleksGordiy)
 - [Второй участник](https://github.com/absaiz228)
 
+## Описание:
+Система для поиска и бронирования горящих туров.
+
 ## Задачи:
 - Use Case Diagram (Никита Пряжникоу)
 - Activity Diagram (Кирилл Дегтеу)
