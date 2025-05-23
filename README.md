@@ -5,8 +5,8 @@
 - [Второй участник](https://github.com/absaiz228)
 
 ## Задачи:
-- Use Case Diagram (Первый участник)
-- Activity Diagram (Второй участник)
+- Use Case Diagram (Никита Пряжникоу)
+- Activity Diagram (Кирилл Дегтеу)
 
 ## Инструкции:
 - Диаграммы хранятся в папке `/diagrams`.
